@@ -56,4 +56,14 @@ https://github.com/acidanthera/CPUFriend/releases
 RealtekCardReader - 0.9.7
 https://github.com/0xFireWolf/RealtekCardReader/releases
 
+USBToolBox - 1.1.1
+https://github.com/USBToolBox/kext/releases
+
+RealtekRTL8111 - 2.4.2
+https://github.com/Mieze/RTL8111_driver_for_OS_X/releases
+
 Ethernet, USB
+
+SB.PR00
+SB.PCI0.LPCB.ECDV
+SB.PCI0.GFX0 SB.PCI0.PEG0.PEGP
