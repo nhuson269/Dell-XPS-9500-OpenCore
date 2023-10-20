@@ -62,7 +62,8 @@ https://github.com/USBToolBox/kext/releases
 RealtekRTL8111 - 2.4.2
 https://github.com/Mieze/RTL8111_driver_for_OS_X/releases
 
-Ethernet, USB
+FeatureUnlock - 1.1.5
+https://github.com/acidanthera/FeatureUnlock/releases
 
 SB.PR00
 SB.PCI0.LPCB.ECDV
