@@ -68,3 +68,7 @@ https://github.com/acidanthera/FeatureUnlock/releases
 SB.PR00
 SB.PCI0.LPCB.ECDV
 SB.PCI0.GFX0 SB.PCI0.PEG0.PEGP
+
+setup_var CpuSetup 0x3e 0x0
+setup_var CpuSetup 0xda 0x0
+exit
