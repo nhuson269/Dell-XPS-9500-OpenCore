@@ -13,7 +13,7 @@ https://github.com/acidanthera/AppleALC/releases
 BlueToolFixup - 2.6.8
 https://github.com/acidanthera/BrcmPatchRAM/releases
 
-AirportItlwm (Ventura), Itlwm - 2.2.0
+AirportItlwm (Ventura), Itlwm - 2.3.0 alpha
 https://github.com/OpenIntelWireless/itlwm/releases
 https://github.com/OpenIntelWireless/HeliPort/releases
 
