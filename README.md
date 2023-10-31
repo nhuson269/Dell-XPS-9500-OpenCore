@@ -22,6 +22,9 @@ https://github.com/1Revenger1/ECEnabler/releases
 CPUFriend - 1.2.7
 https://github.com/acidanthera/CPUFriend/releases
 
+CpuTscSyc - 1.1.0
+https://github.com/acidanthera/CpuTscSync/releases
+
 VoodooPS2Controller - 2.3.5
 https://github.com/acidanthera/VoodooPS2/releases
 
