@@ -41,12 +41,6 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases
 BlueToolFixup - 2.6.8
 https://github.com/acidanthera/BrcmPatchRAM/releases
 
-RealtekCardReader - 0.9.7
-https://github.com/0xFireWolf/RealtekCardReader/releases
-
-RealtekRTL8111 - 2.4.2
-https://github.com/Mieze/RTL8111_driver_for_OS_X/releases
-
 FeatureUnlock - 1.1.5
 https://github.com/acidanthera/FeatureUnlock/releases
 
@@ -56,15 +50,12 @@ note: -nobiooff
 
 RestrictEvents - 1.1.3
 https://github.com/acidanthera/RestrictEvents/releases
-note:
 
 CryptexFixup - 1.0.2
 https://github.com/acidanthera/CryptexFixup/releases
-note:
 
 HibernationFixup - 1.4.9
 https://github.com/acidanthera/HibernationFixup/releases
-note:
 
 DebugEnhancer - 1.0.8
 https://github.com/acidanthera/DebugEnhancer/releases
